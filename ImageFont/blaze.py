@@ -8,4 +8,4 @@ if os.path.exists("local.env"):
 
 load_dotenv()
 admins = {}
-SUPPORT = getenv("SUPPORT", "RaichuOfficial")
+SUPPORT = getenv("SUPPORT", "ZaYNxOP")
