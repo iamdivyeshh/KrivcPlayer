@@ -1,13 +1,13 @@
 {
-    "name": "ProMusic",
-    "logo": "https://telegra.ph/file/95c333a0e464b4ee1228f.jpg",
-    "description": "Pro Music allow you to stream music trought the telegram voice chat feature.",
+    "name": "AlishaVcPlayer",
+    "logo": "https://telegra.ph/file/de138de8fd880becb9cf1.jpg",
+    "description": "AlishaVcPlayerBot allow you to stream music trought the telegram voice chat feature.",
     "keywords": [
         "music", 
         "voice chat", 
         "telegram"
     ],
-    "repository": "https://github.com/FriDayXD/ProMusic",
+    "repository": "https://github.com/CandyMusic/AlishaVcPlayer",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
