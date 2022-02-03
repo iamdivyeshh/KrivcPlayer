@@ -1,4 +1,4 @@
-# Alisha Music
+# Kri Music
 
 
 ### 🧪 Get `SESSION_NAME` from below:
